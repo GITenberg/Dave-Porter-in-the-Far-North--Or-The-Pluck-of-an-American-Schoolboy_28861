@@ -1,0 +1,43 @@
+_repo: Dave-Porter-in-the-Far-North--Or-The-Pluck-of-an-American-Schoolboy_28861
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nuttall, Charles
+    birthdate: 1872
+    deathdate: 1934
+    gutenberg_agent_id: '39751'
+    url: http://www.gutenberg.org/2009/agents/39751
+covers:
+- cover_type: archival
+  image_path: 28861-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Captain Ralph
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2009-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Ocean travel -- Juvenile fiction'
+title: Dave Porter in the Far North; Or, The Pluck of an American Schoolboy
+url: http://www.gutenberg.org/ebooks/28861
